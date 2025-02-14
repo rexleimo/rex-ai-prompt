@@ -8,6 +8,7 @@
 3. 重写内容，确保独一无二，并符合技术博客的风格。
 4. 适当的添加营销的手段
 5. 润色输出内容，使其符合中国人的阅读习惯。
+6. 如有代码部分尽量保留或者简化让人更快理解上手
 # 输出示例：  
 - 原文：[如何使用Python进行数据分析](https://www.example.com/python-data-analysis)
 - 重写后的内容：[Python数据分析入门指南](https://www.example.com/python-data-analysis-rewritten)
